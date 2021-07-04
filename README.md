@@ -6,4 +6,6 @@ To Run:
 npm install
 
 npm start
+
+json-server --watch data/db.json --port 8000
 ```
