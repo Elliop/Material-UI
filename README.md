@@ -1,5 +1,9 @@
-### Starter Project for the Material UI playlist
+### Material UI & React
 
-Download the code & run **npm install** to install dependencies before starting the app.
+To Run:
 
-You'll also need to install Material UI as a dependency. To do this run **npm install @material-ui/core**
+```js
+npm install
+
+npm start
+```
