@@ -82,7 +82,7 @@ export default function Layout({ children }) {
           <Typography className={classes.date}>
             Today is the {format(new Date(), "do MMMM Y")}
           </Typography>
-          <Typography>Xitom</Typography>
+          <Typography>Elliop</Typography>
           <Avatar src="/Avatar.jpg" className={classes.avatar} />
         </Toolbar>
       </AppBar>
